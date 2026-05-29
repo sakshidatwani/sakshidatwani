@@ -43,18 +43,18 @@ Not side projects - these are problems I actually solved.
 
 | Project | What it does | Stack | Scale |
 |---------|-------------|-------|-------|
-| [🔍 RiskLens](https://github.com/Insight-Q/RiskLens-Financial_Risk_Analytics_Platform) | Credit risk & cross-sell model — ROC-AUC 0.87, deployed via Flask API | Python · Scikit-Learn · Streamlit · SHAP | 150K+ records |
-| [🚖 Cab Ride Analysis](https://github.com/sakshidatwani/cab-trip-analysis) | SQL-heavy BI report — cut query time 40%, surfaced surge pricing insights | SQL · PostgreSQL · Power BI | 50K+ trips, 8 cities |
+| [🔍 RiskLens](https://github.com/Insight-Q/RiskLens-Financial_Risk_Analytics_Platform) | Credit risk & cross-sell model - ROC-AUC 0.87, deployed via Flask API | Python · Scikit-Learn · Streamlit · SHAP | 150K+ records |
+| [🚖 Cab Ride Analysis](https://github.com/sakshidatwani/cab-trip-analysis) | SQL-heavy BI report - cut query time 40%, surfaced surge pricing insights | SQL · PostgreSQL · Power BI | 50K+ trips, 8 cities |
 | [🌫️ Air Quality Dashboard](https://github.com/sakshidatwani/AQI-health-impact) | AQI trends + health risk zones across 26 Indian cities, 6 years of data | Python · Power BI · Pandas | 20K+ observations |
 | [📡 API Uptime Monitor](https://github.com/sakshidatwani/api-uptime-monitor) | Distributed monitoring + Slack/email alerts with A/B alert config testing | React · Node.js · MongoDB · Redis | 10K+ logs |
 
 ## Certifications & Experience
 
-- 🥇 [HackerRank SQL Advanced] — Gold Badge
-- 📊 [Google Analytics (GA4)] — Google
-- 📈 [Data Visualization] — Kaggle
-- 🏦 [Quantitative Research Virtual Experience] — J.P. Morgan *(March 2026)*
-- 📉 [Data Analytics Virtual Experience] — Deloitte *(May 2026)*
+- 🥇 [HackerRank SQL Advanced] - Gold Badge
+- 📊 [Google Analytics (GA4)] - Google
+- 📈 [Data Visualization] - Kaggle
+- 🏦 [Quantitative Research Virtual Experience] - J.P. Morgan *(March 2026)*
+- 📉 [Data Analytics Virtual Experience] - Deloitte *(May 2026)*
 
 ## Let's connect
 
