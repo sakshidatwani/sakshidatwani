@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=3000&color=6366F1&center=true&vCenter=true&width=700&lines=Python+%7C+SQL+%7C+Power+BI+%7C+Scikit-Learn+%7C+Streamlit+%7C+Tableau" alt="Tech stack" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=3000&color=6366F1&center=true&vCenter=true&width=700&lines=Python+%7C+SQL+%7C+Power+BI+%7C+Scikit-Learn+%7C+Streamlit" alt="Tech stack" />
   </a>
 </p>
 
@@ -24,14 +24,16 @@ Not side projects - these are problems I actually solved.
 
 ## Tech stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/Gen_AI_Tools-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -53,11 +55,6 @@ Not side projects - these are problems I actually solved.
 - 📈 [Data Visualization] — Kaggle
 - 🏦 [Quantitative Research Virtual Experience] — J.P. Morgan *(March 2026)*
 - 📉 [Data Analytics Virtual Experience] — Deloitte *(May 2026)*
-
-## GitHub Stats
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sakshidatwani&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
 
 ## Let's connect
 
