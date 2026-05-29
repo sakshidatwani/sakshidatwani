@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Turning raw data into decisions — finance, mobility & public health domains.
+  Turning raw data into decisions - finance, mobility & public health domains.
 </p>
 
 ## About me
