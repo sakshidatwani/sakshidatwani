@@ -14,8 +14,12 @@
 
 CS grad! I turn raw, messy data into things that matter - risk models, operational dashboards, and pipelines built on real datasets across finance, mobility, and public health.
 
-ROC-AUC 0.87 on credit risk. 40% query time cut in SQL. 26 cities of air quality mapped. 
+* ROC-AUC 0.87 on credit risk
+* 40% query time reduction in SQL optimization
+* 26 cities of air quality mapped and analyzed
+
 Not side projects - these are problems I actually solved.
+
 
 - 🔍 Currently: open to data analyst / data engineering roles
 - 📊 Built across finance, mobility & air quality - 150K+ records, real decisions
